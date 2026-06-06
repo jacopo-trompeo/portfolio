@@ -39,7 +39,7 @@ export function ProjectRow(props: ProjectRowProps) {
           {project.description}
         </p>
 
-        <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2">
+        <div className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-2">
           <span className="text-muted-foreground/70 text-sm">
             {project.techStack.join(" · ")}
           </span>
