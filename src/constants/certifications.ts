@@ -7,8 +7,8 @@ export const certifications: Certification[] = [
     description: "Certified IT Professional (IPA Japan - ITEE FE equivalent)",
   },
   {
-    name: "JLPT N3",
-    year: 2025,
+    name: "JLPT N2",
+    year: 2026,
     description: "Japanese Language Proficiency Test",
   },
   {
