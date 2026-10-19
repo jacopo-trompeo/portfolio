@@ -3,7 +3,7 @@ import type { PersonalInfo } from "@/types";
 export const personalInfo: PersonalInfo = {
   name: "Jacopo Trompeo",
   title: "Web Developer",
-  email: "jacopo.trompeo@gmail.com",
+  email: "jacopo@trompeo.com",
   phone: "+39 370 322 3598",
   github: "jacopo-trompeo",
   location: "Italy",
